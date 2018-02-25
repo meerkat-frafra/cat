@@ -1,3 +1,3 @@
 # cat
 
-this repo is test repo.
+これは、テストリポジトリです。
